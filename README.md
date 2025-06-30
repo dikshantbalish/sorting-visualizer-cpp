@@ -17,3 +17,6 @@ A terminal-based C++ program to visualize six popular sorting algorithms with li
 ```bash
 g++ main.cpp -o visualizer
 ./visualizer
+
+## Demo 
+<img width="668" alt="Untitled" src="https://github.com/user-attachments/assets/cc6a2129-e70c-4def-b636-274d3411a8d6" />
