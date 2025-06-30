@@ -1,22 +1,30 @@
-# Sorting Visualizer (C++)
+# 🌀 Sorting Visualizer (C++)
 
-A terminal-based C++ program to visualize six popular sorting algorithms with live animations and color-coded bars.
+A terminal-based C++ program that visualizes the inner workings of six popular sorting algorithms using animated ASCII bars and ANSI color codes. Built with simplicity, learning, and performance in mind.
 
-## ✨ Features
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Quick Sort
-- Merge Sort
-- Heap Sort
-- Terminal animations using ANSI escape codes
-- Optimized for performance and readability
+---
 
-## 🚀 How to Run
+## 📸 Demo
+
+![Sorting Visualizer Demo](https://github.com/user-attachments/assets/cc6a2129-e70c-4def-b636-274d3411a8d6)
+
+---
+
+## ⚙️ Features
+
+- 🔁 Bubble Sort  
+- 🔽 Selection Sort  
+- 🔁 Insertion Sort  
+- ⚡ Quick Sort  
+- 🔀 Merge Sort  
+- 🏗️ Heap Sort  
+- 🎨 Terminal bar animations using color codes  
+- ⚡ Optimized memory usage and structure  
+
+---
+
+## 🧪 How to Run (macOS/Linux)
 
 ```bash
 g++ main.cpp -o visualizer
 ./visualizer
-
-## Demo 
-<img width="668" alt="Untitled" src="https://github.com/user-attachments/assets/cc6a2129-e70c-4def-b636-274d3411a8d6" />
